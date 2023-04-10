@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+
+        android:id="@+id/id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="id"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Username:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mobile:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/website"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="website:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="address:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/street"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="street:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="city:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/zipcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="zipcode:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+    <TextView
+
+        android:id="@+id/company"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="company:"
+        android:textSize="30dp"
+        android:padding="5dp"
+        android:layout_margin="5dp">
+
+    </TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
